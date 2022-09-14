@@ -1,0 +1,4 @@
+C:\Users\COMPUTRONCEIBOS\OneDrive\Documents\3er Semestre\Estructura de Datos\PrimerParcial\Deberes\Deberes_Maigua\Cuadrado Latino,Magico y Pascal\CuadradoMagico\x64\Debug\CuadradoMagico.exe
+C:\Users\COMPUTRONCEIBOS\OneDrive\Documents\3er Semestre\Estructura de Datos\PrimerParcial\Deberes\Deberes_Maigua\Cuadrado Latino,Magico y Pascal\CuadradoMagico\x64\Debug\CuadradoMagico.pdb
+C:\Users\COMPUTRONCEIBOS\OneDrive\Documents\3er Semestre\Estructura de Datos\TercerSemetres\Deberes\CuadradoMagico\x64\Debug\CuadradoMagico.exe
+C:\Users\COMPUTRONCEIBOS\OneDrive\Documents\3er Semestre\Estructura de Datos\TercerSemetres\Deberes\CuadradoMagico\x64\Debug\CuadradoMagico.pdb
