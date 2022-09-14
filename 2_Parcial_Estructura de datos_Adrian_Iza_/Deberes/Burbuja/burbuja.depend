@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1612183081 source:c:\users\adrian-pc\documents\3 semestre\estrucutura de datos\2 parcial\deberes\burbuja\deber burbuja con clases\deber burbuja con clases en code blocks\burbuja\src\burbuja.cpp
+	"burbuja.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"burbuja.h"
+
+1612154755 c:\users\adrian-pc\documents\3 semestre\estrucutura de datos\2 parcial\deberes\burbuja\deber burbuja con clases\deber burbuja con clases en code blocks\burbuja\include\burbuja.h
+	<iostream>
+	<cstdlib>
+	<conio.h>
+

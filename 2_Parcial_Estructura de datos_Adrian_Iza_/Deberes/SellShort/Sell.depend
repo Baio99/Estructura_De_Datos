@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1612183038 source:c:\users\adrian-pc\documents\3 semestre\estrucutura de datos\2 parcial\deberes\codigo shell\3.0 con clases\3.0 con clases en code blocks\sellshort 3.0 final en code blocks\sell\src\shellsort.cpp
+	"ShellSort.h"
+	"ShellSort.h"
+	<iostream>
+	<windows.h>
+
+1612151373 c:\users\adrian-pc\documents\3 semestre\estrucutura de datos\2 parcial\deberes\codigo shell\3.0 con clases\3.0 con clases en code blocks\sellshort 3.0 final en code blocks\sell\include\shellsort.h
+	<iostream>
+	<windows.h>
+
