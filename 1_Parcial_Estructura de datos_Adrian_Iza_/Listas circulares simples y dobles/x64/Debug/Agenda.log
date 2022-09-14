@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\hp\Downloads\Personas\main.cpp(29,6): warning C4101: 'variable': variable local sin referencia
+C:\Users\hp\Downloads\Personas\main.cpp(29,15): warning C4101: 'posi': variable local sin referencia
+  Agenda.vcxproj -> C:\Users\hp\Downloads\Personas\x64\Debug\Agenda.exe

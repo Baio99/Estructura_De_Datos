@@ -1,0 +1,6 @@
+﻿  serie aplicativo.cpp
+  SerieTaylor.cpp
+C:\Users\Adrian\Documents\Estructura de datos\Estructura de datos Edgar solis\1_Parcial_Estructura de datos_Adrian_Iza\Deberes Estructura de Datos 1 Parcial\Deber 10 Serie Taylor\serie aplicativo\SerieTaylor.cpp(57,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Adrian\Documents\Estructura de datos\Estructura de datos Edgar solis\1_Parcial_Estructura de datos_Adrian_Iza\Deberes Estructura de Datos 1 Parcial\Deber 10 Serie Taylor\serie aplicativo\SerieTaylor.cpp(66,52): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+  serie aplicativo.vcxproj -> C:\Users\Adrian\Documents\Estructura de datos\Estructura de datos Edgar solis\1_Parcial_Estructura de datos_Adrian_Iza\Deberes Estructura de Datos 1 Parcial\Deber 10 Serie Taylor\Debug\serie aplicativo.exe

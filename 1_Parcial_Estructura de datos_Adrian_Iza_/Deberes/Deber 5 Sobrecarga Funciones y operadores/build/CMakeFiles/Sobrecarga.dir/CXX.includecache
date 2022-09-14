@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/white/workspace/cpp/Sobrecarga/main.cpp
+iostream
+-
+math_utils.h
+C:/Users/white/workspace/cpp/Sobrecarga/math_utils.h
+
+C:/Users/white/workspace/cpp/Sobrecarga/math_utils.h
+cassert
+-
+

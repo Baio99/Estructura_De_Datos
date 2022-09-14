@@ -1,0 +1,2 @@
+C:\Users\white\source\repos\Agenda\Debug\Agenda.exe
+C:\Users\white\source\repos\Agenda\Debug\Agenda.pdb
